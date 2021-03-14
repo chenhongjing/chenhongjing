@@ -1,9 +1,10 @@
-<div align='center' ><font size='70'>🌕🌖🌗🌘🌑🌒🌓🌔🌕</font></div>
+<div align='center' ><font size='120'>🌕🌖🌗🌘🌑🌒🌓🌔🌕</font></div>
 
+<div align=center>
+<img src="rabbit.gif" />
+</div>
 
-![rabbit](rabbit.gif)
-
-<div align='center' ><font size='30'>TO DO LIST IN 2021</font></div>
+<div align='center' ><font size='30'><strong>TO DO LIST IN 2021</strong></font></div>
 
 <div align='center' >🍙 <strong>LANGUAGE</strong></div>
 <div align='center' > TOEFL</div>
