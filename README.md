@@ -10,8 +10,8 @@
 <div align='center' > TOEFL</div>
 <div align='center' > GRE</div>
 <div align='center' > 🧀 <strong>PROGRAMMING</strong></div>
+<div align='center' > Java</div>
 <div align='center' > C/C++</div>
-<div align='center' > Swift</div>
 <div align='center' > Python</div>
 <div align='center' > <strong>To be continued ...</strong></div>
 
