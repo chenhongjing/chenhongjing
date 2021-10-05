@@ -38,5 +38,6 @@ I am Hongjing, currently a undergraduate student majoring in Computer Science.
 	<img style="margin: auto;" src="images/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="images/linux.png" alt=linux width="60" height="60"/>
 </p>
-<sub>Credits to: <br/>[东予薏米](https://space.bilibili.com/23530/) for the awesome [GIF picture](rabbit.gif)</sub>
+
+<sub>Credits to: <br/>[东予薏米](https://space.bilibili.com/23530/) for the awesome [GIF picture](images/rabbit.gif)</sub>
 
