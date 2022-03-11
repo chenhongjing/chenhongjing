@@ -13,7 +13,7 @@ I am Hongjing, currently a undergraduate student majoring in Computer Science.
 
 #### 🧀 Things I am currently working on:
 
-- Learning to be a better programmer
+- Learning to be a better developer
 
 - Improving English skills, especially listening and speaking
 
@@ -40,4 +40,3 @@ I am Hongjing, currently a undergraduate student majoring in Computer Science.
 </p>
 
 <sub>Credits to: <br/>[东予薏米](https://space.bilibili.com/23530/) for the awesome [GIF picture](images/rabbit.gif)</sub>
-
