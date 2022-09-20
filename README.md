@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hjjing.chen@gmail.com)
 
 
-I am Hongjing, currently a undergraduate student majoring in Computer Science.
+I am Hongjing, currently a graduate student majoring in Electrical & Computer Engineering.
 
 <p>
 <div align='left' ><font size='120'>🌕🌖🌗🌘🌑🌒🌓🌔🌕</font></div>
@@ -22,6 +22,12 @@ I am Hongjing, currently a undergraduate student majoring in Computer Science.
 - Jogging daily (except bad weather days)
 - Keeping focused once getting started
 - **Early to bed!!!**
+
+#### 🥛 Things I value a lot:
+
+- **Mental & physical health**
+
+- ...
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenhongjing&show_icons=true&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenhongjing&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
